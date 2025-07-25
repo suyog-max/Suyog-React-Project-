@@ -1,12 +1,12 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Home from "./Components/Home/Home"
-import About from "./components/About/About";
-import Contact from "./components/Contact/Contact";
-import Login from "./components/Login/Login";
-import Project from "./components/Project/Project";
-import Navbar from "./components/Navbar/Navbar";
-import Product from "./components/Products/Products";
+import About from "./Components/About/About";
+import Contact from "./Components/Contact/Contact";
+import Login from "./Components/Login/Login";
+import Project from "./Components/Project/Project";
+import Navbar from "./Components/Navbar/Navbar";
+import Product from "./Components/Products/Products";
 
 import "./App.css";
 
